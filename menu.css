@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: darkturquoise;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    background-color: aqua;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.menu div {
+    padding: 10px;
+}
